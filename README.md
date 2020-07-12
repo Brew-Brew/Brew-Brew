@@ -2,4 +2,4 @@
 
 I love cold-brew ☕️❄️
 
-[🏠](https://ideveloper2.dev/)
+[🏠 Go my Blog](https://ideveloper2.dev/)
